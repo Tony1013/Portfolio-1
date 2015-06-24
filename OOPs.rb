@@ -59,3 +59,6 @@ ringo.intro
 # beatles.each do |member|
 #   puts "Hi, I'm #{member[:name]}.  I'm #{member[:nickname]}!"
 # end
+
+
+puts "ben wuz here"
