@@ -1,4 +1,4 @@
-# Portfolio-1
+# Portfolio
 ===
 
-A repo for my early weeks work in Wyncode. 
+A repo for my work in Wyncode. 
