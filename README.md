@@ -1,4 +1,4 @@
 # Portfolio
 ===
 
-A repo for my work in Wyncode. 
+A repo for all of my work in Wyncode. 
